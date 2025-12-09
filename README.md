@@ -1,8 +1,8 @@
 📊 Sentiment Analysis — Twitter Sentiment140
 CodeAlpha Data Analytics Internship (Task 4)
 
-This project performs sentiment analysis on the Sentiment140 Twitter Dataset, containing 1.6M tweets labeled as Positive or Negative. The goal is to clean real-world tweet data, apply sentiment models, visualize patterns, and build a machine learning classifier.
-
+This project performs a complete Sentiment Analysis workflow on the Sentiment140 Twitter Dataset, which contains 1.6 million tweets labeled as Positive or Negative.
+The goal is to analyze public sentiment, clean real-world text data, apply sentiment models, visualize emotional patterns, and build an interpretable ML model for classification.
 🗂 Dataset
 
 Sentiment140 – Twitter Sentiment Dataset
