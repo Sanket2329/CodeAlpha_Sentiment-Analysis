@@ -1,3 +1,4 @@
+![sentiment analysis](https://github.com/Sanket2329/CodeAlpha_Sentiment-Analysis/blob/main/sentiment%20.png)
 📊 Sentiment Analysis — Twitter Sentiment140
 CodeAlpha Data Analytics Internship (Task 4)
 
